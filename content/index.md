@@ -15,8 +15,8 @@ Making projects is
 Feel free to click on each image to discover more!
 (pdf version)
 
-[![[image-removebg-preview (1).png|300]]](obsidian://open?vault=content&file=Projects%2FDummy-Robotic-Arm)[![[image-removebg-preview (2) 1.png|300]]](obsidian://open?vault=content&file=Projects%2FWheel-legged%20Robot)
-[![[Pasted image 20241029220527.png|300]]](obsidian://open?vault=content&file=Projects%2FHumanoid%20%40%20UW%20RoboSoccer)[![[Pasted image 20241029220632.png|300]]](obsidian://open?vault=content&file=Projects%2FBiomechanical%20Robotic%20Hand)
+[![[image-removebg-preview (1).png|300]]](https://www.ernestwang.ca/Projects/Dummy-Robotic-Arm)[![[image-removebg-preview (2) 1.png|300]]](https://www.ernestwang.ca/Projects/Wheel-legged-Robot)
+[![[Pasted image 20241029220527.png|300]]](https://www.ernestwang.ca/Projects/Humanoid-@-UW-RoboSoccer)[![[Pasted image 20241029220632.png|300]]](https://www.ernestwang.ca/Projects/Biomechanical-Robotic-Hand)
 
 
 
