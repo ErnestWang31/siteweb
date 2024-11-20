@@ -1,7 +1,7 @@
 **Quick video of the robot operating: [dummy_move.MP4](https://drive.google.com/file/d/19syZx1zGBMIvCTpJkcvSTVYOZutUH3FT/view?usp=sharing)**
 Every engineer who's watched Iron M. n has dreamed of having their own JARVIS. While building a full-scale robotic lab assistant wasn't realistic, I decided to create my compact desktop version that could bring that sci-fi dream to my desk.
 
-I named it "**DUMMY**" as a nod to Tony Stark's chaotic robot DUM-E. ![[Pasted image 20241109150655.png|right|250]]
+I named it "**DUMMY**" as a nod to Tony Stark's chaotic robot U. ![[Pasted image 20241109150655.png|right|250]]
 A few requirements I had before making this project:
 - It must be **compact**: Fit on my desk without taking up too much space
 - It must be **smooth**: Needed precise, fluid movements for reliable operation
