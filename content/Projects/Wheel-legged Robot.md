@@ -18,8 +18,11 @@ Body stabilization uses LQR control. I selected four key state variables. Platfo
 I implemented state tracking as follows:
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFHmsRG5mxsnoZj2doWdjKso-WeiVvamlGcoXpmfA3uJL1jqDxWe_n28U855-x8NqXHELmDetRCn7mfsEpke6cB9pVTFH4wxeQP3xpcbmu7hTNc42uYHCbkBKqSmG1r2ec7qylvmTPnFH5FVw31d_iKLzj?key=zwGjVZ7EjAL1kdZw6LWOIA)**
+
 The system uses PID controllers for output generation. Each controller targets specific motion aspects. The outputs combine seamlessly. Real-time processing ensures smooth operation:
+
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf5ygAo5s7WUs3T1u1vgwZHeGBnukiyaKREiIoRJa9kRyGLpD3DpXzKxoiHrDUAfcpjPLYL_f__VLmBa8lw5KHutB0d6jMdDCQwRBKpGH1pbNXHybdqXIRgR3UvpoSNnVFl1SrIFv3gBELrIEQQIhoCSj8?key=zwGjVZ7EjAL1kdZw6LWOIA)**
+
 I chose ADRC for leg motion control. This handles terrain variations effectively. It estimates unknown surface conditions. Compensation occurs automatically. The robot maintains stability across different surfaces.
 # Electronic Integration
 **![|300](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc6Ua7rF1yZps5-Mandqn9dDOO9Lx7pxaXfufus56VC3Stc3G7T9bcnfaMG6e7VPnfVzTXfL_4Sev-Gd35qAChC3QcyFvaav0Z265S9xxkqeTpFjStUK0fujqNXdBn6WNkLoU0BgU3fpBN3IyzlIFZx3P4C?key=zwGjVZ7EjAL1kdZw6LWOIA)****![|300](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTUoJCI9OqzmCqmHK1F9zyNTnfWO003I9EFrcA5R4SHaRrqtyxC1ZaBxTidb9PTxTz5_pV0Wv68SVyFoYyvPrL2vMV2mRyg0F3_c3QIXoLg_fU7gsCCBO8wIwC0v-E9cc9467G6Io2cxH4zYJLV6go-T4R?key=zwGjVZ7EjAL1kdZw6LWOIA)**
