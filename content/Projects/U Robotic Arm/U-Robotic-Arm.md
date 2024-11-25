@@ -22,9 +22,7 @@ I arrived at this final design after 3 prototyping iterations and 144 versions.
 FEA of each joint and connection was conducted to validate the structural integrity of the robot.
 In the end, the CNC version of the robot can hold up to 2kg of mass on its end effector, which is equivalent to exactly 7 of my favourite Chinese drinks:
 I am currently finding materials and redesigning the robot for 3D printing, to make the process cheaper and more streamlined.
-
-**![|250](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeoFnI5t7OBq2lSQOIDl1KKcjLwoUPXpiQZAnRlLHAAsPGsKcxzb_r2PHkNMQDqCeFyI66sp2BvagmOlYTzTOea00w66EeWLDT4Kq--eWl9aY58syq9jkQO3WUsnmbwT9eHOhel4fhz0nJ9hep5HONBvOub?key=zwGjVZ7EjAL1kdZw6LWOIA)**
-
+![[Pasted image 20241124201829.png]]
 ## Actuator Design
 The original goal was to 3D print custom harmonic actuators, but the tolerance is just too tight for the operation to be smooth and accurate. But here is my design anyway.
 **![|300](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdqgwOZalXKUUkEMgMWDEsqQUtCl99xX8Aox1uDETC4mpsuDVYOST4uiFejUR233nwReUCjl4rHEi0jl-Q97Tw0GIu0yueAu7yPs1iq4S-U9zpqYsOH-easIxCLdM-BATBGS_Ku4xNlrdcwRy5FWskXro6u?key=zwGjVZ7EjAL1kdZw6LWOIA)****![|200](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdx5ivxbcE_e5mW1Kbw76HRaVKRMRm6ngwn7sRrU74LVnDayMo1SbHn_OMm0tk6MrQcSG54KeeZ0S7_mvAVvY3qPYoPIPHvMG5K6BUCoyR0YuCxxxuDm36qj7hNG5gs22_aLe5xaSWGCutBRvmVkFmVtbdY?key=zwGjVZ7EjAL1kdZw6LWOIA)****![|200](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_Ned4o7-vaGOtbCLnHSVNO0jZAvauALhq62wBhR8yjUxvStVvXLTis-IAIgKvlAxJFEY5P52G9lDj3zF4s_JdU4LsRoNCmJVUOsdortIcsTBVB0ejF2Y7BH8w8vUTExMiYM03oTCVh9qW2FfnI35rwSU?key=zwGjVZ7EjAL1kdZw6LWOIA)**
