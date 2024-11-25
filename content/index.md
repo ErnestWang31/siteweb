@@ -11,3 +11,4 @@ Follow my [Strava](https://strava.app.link/0cGqWokPRHb) and [Spotify](https://op
 #### My Projects:
 
 [![[image-removebg-preview (1).png|200]]](https://ernestwang.ca/Projects/U-Robotic-Arm/U-Robotic-Arm)[![[image-removebg-preview (2) 1.png|200]]](https://www.ernestwang.ca/Projects/Wheel-legged-Robot)[![[robosoccer.png|200]]](https://www.ernestwang.ca/Projects/Humanoid-@-UW-RoboSoccer)
+![[harmonic actuator.png|200]](https://www.ernestwang.ca/Projects/Harmonic-Actuator)![[BRP.png|200]](https://www.ernestwang.ca/Experiences/Product-R&D-@-BRP)
