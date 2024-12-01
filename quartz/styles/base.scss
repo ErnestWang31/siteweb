@@ -432,23 +432,28 @@ p {
 
 table {
   font-size: 11px; // Change this value to your desired font size
+  border: none; // Remove border from the table
+  border-collapse: collapse; // Ensure borders are collapsed
 }
 
 table th, table td {
   font-size: 11px; // Change this value to your desired font size
+  border: none; // Remove border from table cells
 }
+
 th {
   text-align: left;
   padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
+  border: none; // Remove border from table headers
 }
 
 td {
   padding: 0.2rem 0.7rem;
+  border: none; // Remove border from table cells
 }
 
 tr {
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: none; // Remove border from table rows
   &:last-child {
     border-bottom: none;
   }
