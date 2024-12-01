@@ -430,6 +430,13 @@ p {
   }
 }
 
+table {
+  font-size: 11px; // Change this value to your desired font size
+}
+
+table th, table td {
+  font-size: 11px; // Change this value to your desired font size
+}
 th {
   text-align: left;
   padding: 0.4rem 0.7rem;
