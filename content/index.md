@@ -5,7 +5,9 @@ title: Hi, I'm Ernest!
 
 Currently working on reverse-engineering EV hardware and software, and developing telematics firmware and mechanical at [Geotab](https://www.geotab.com/)
 
-Previously Product Development @ BRP and Prototyping @ Paragon Systems
+Working on a budget-friendly mini humanoid robotics platform with [[UW RoboSoccer]]
+
+Previously Product Development @ [BRP](https://www.brp.com/en/) and Mechatronics @ Paragon Systems
 
 Follow my [Strava](https://strava.app.link/0cGqWokPRHb) and [Spotify](https://open.spotify.com/user/ernestwang135791?si=eb867f3241e14a72)!
 ###### Projects:
