@@ -6,6 +6,7 @@ We are competing in the 2026 RoboCup in South Korea.
 - We are trying to revolutionize the competition by introducing full Reinforcement Learning control, from bipedal movements to game theory
 - We are also looking for funding! Please reach out!
 # Progress
+## December 2024
 ## November 2024
 - Inital Mechanical design completed:
 ![[Pasted image 20241129143915.png|500]]
