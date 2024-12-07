@@ -3,7 +3,7 @@ title: Hi, I'm Ernest!
 ---
 ###### Studying Mechatronics @ [UWaterloo](https://uwaterloo.ca/engineering/)
 
-Currently working on reverse-engineering EV hardware and software, and developing telematics firmware and mechanical at [Geotab](https://www.geotab.com/)
+Currently working developing telematics firmware and mechanical at [Geotab](https://www.geotab.com/)
 
 Working on a budget-friendly mini humanoid robotics platform with [[UW RoboSoccer]]
 
