@@ -17,12 +17,9 @@ Mechatronics @ Paragon Systems
 Follow my [Strava](https://strava.app.link/0cGqWokPRHb) and [Spotify](https://open.spotify.com/user/ernestwang135791?si=eb867f3241e14a72)!
 ###### Projects:
 
-|                                                                                                         |                                                                                                 |
-| :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
-|                [![[robosoccer.png\|200]]](https://ernestwang.ca/Projects/UW-RoboSoccer)                 | [![[image-removebg-preview (2) 1.png\|200]]](https://ernestwang.ca/Projects/Wheel-legged-Robot) |
-|                                   *UW RoboSoccer: progress tracking*                                    |                            *Wheeled-Legged Robot: moving & jumping*                             |
-| [![[Pasted image 20241129143709.png\|200]]](https://ernestwang.ca/Projects/U-Robotic-Arm/U-Robotic-Arm) |           [![[harmonic.png\|200]]](https://ernestwang.ca/Projects/Harmonic-Actuator)            |
-|                                   *Robotic Arm: capable of 2kg load*                                    |                                  3D printed harmonic actuator                                   |
-WIP: Mini Servo RoboDog
-
-![[Screenshot 2024-12-13 at 12.12.12.png]]
+|                                                                            |                                                                                                 |                                                                                                         |
+| :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|  [![[robosoccer.png\|200]]](https://ernestwang.ca/Projects/UW-RoboSoccer)  | [![[image-removebg-preview (2) 1.png\|200]]](https://ernestwang.ca/Projects/Wheel-legged-Robot) | [![[Pasted image 20241129143709.png\|200]]](https://ernestwang.ca/Projects/U-Robotic-Arm/U-Robotic-Arm) |
+|                     *UW RoboSoccer: progress tracking*                     |                            *Wheeled-Legged Robot: moving & jumping*                             |                                   *Robotic Arm: capable of 2kg load*                                    |
+| [![[harmonic.png\|200]]](https://ernestwang.ca/Projects/Harmonic-Actuator) |                         ![[Screenshot 2024-12-13 at 12.12.12.png\|200]]                         |                                     ![[Cropped_Image (3).png\|200]]                                     |
+|                        3D printed harmonic actuator                        |                                        Work in progress                                         |                                          just a cool photo :)                                           |
