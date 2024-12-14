@@ -21,5 +21,5 @@ Follow my [Strava](https://strava.app.link/0cGqWokPRHb) and [Spotify](https://op
 | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 |                [![[robosoccer.png\|300]]](https://ernestwang.ca/Projects/UW-RoboSoccer)                 | [![[image-removebg-preview (2) 1.png\|300]]](https://ernestwang.ca/Projects/Wheel-legged-Robot) |
 |                                   *UW RoboSoccer: progress tracking*                                    |                            *Wheeled-Legged Robot: moving & jumping*                             |
-| [![[Pasted image 20241129143709.png\|300]]](https://ernestwang.ca/Projects/U-Robotic-Arm/U-Robotic-Arm) |              ![[harmonic 1.png]](https://ernestwang.ca/Projects/Harmonic-Actuator)              |
+| [![[Pasted image 20241129143709.png\|300]]](https://ernestwang.ca/Projects/U-Robotic-Arm/U-Robotic-Arm) |           ![[harmonic 1.png\|300]](https://ernestwang.ca/Projects/Harmonic-Actuator)            |
 |                                   *Robotic Arm: capable of 2kg load*                                    |                                  3D printed harmonic actuator                                   |
