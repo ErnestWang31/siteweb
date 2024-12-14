@@ -2,9 +2,9 @@
 title: Hi, I'm Ernest!
 ---
 ###### Studying Mechatronics @ [UWaterloo](https://uwaterloo.ca/engineering/)
-|                   |                                 |
-| :---------------: | :-----------------------------: |
-| ![[BRP.png\|100]] | ![[Cropped_Image (2).png\|100]] |
+|                   |                                 |                    |                 |                   |                       |
+| :---------------: | :-----------------------------: | :----------------: | :-------------: | :---------------: | :-------------------: |
+| ![[BRP.png\|100]] | ![[Cropped_Image (2).png\|100]] | ![[bike.png\|100]] | ![[U.png\|100]] | ![[run.png\|100]] | ![[rainbow.png\|100]] |
 
 Currently working developing telematics firmware and mechanical at [Geotab](https://www.geotab.com/)
 
