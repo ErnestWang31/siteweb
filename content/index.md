@@ -17,6 +17,8 @@ Mechatronics @ Paragon Systems
 Follow my [Strava](https://strava.app.link/0cGqWokPRHb) and [Spotify](https://open.spotify.com/user/ernestwang135791?si=eb867f3241e14a72)!
 
 [[cool things i've read or saw]]
+
+![[ErnestWangPortfolio.pdf]]
 ###### Projects:
 
 |                                                                            |                                                                                                 |                                                                                                         |
