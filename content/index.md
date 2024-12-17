@@ -18,6 +18,7 @@ Follow my [Strava](https://strava.app.link/0cGqWokPRHb) and [Spotify](https://op
 
 [[cool things i've read or saw]]
 
+###### PDF Portfolio:
 ![[ErnestWangPortfolio.pdf]]
 ###### Projects:
 
