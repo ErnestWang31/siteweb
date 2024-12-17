@@ -1,5 +1,7 @@
 **Quick video of the robot operating: [dummy_move.MP4](https://drive.google.com/file/d/19syZx1zGBMIvCTpJkcvSTVYOZutUH3FT/view?usp=sharing)**
-Every engineer who's watched Iron Man has dreamed of having their own JARVIS. While building a full-scale robotic lab assistant wasn't realistic, I decided to create my compact desktop version that could bring that sci-fi dream to my desk.
+# Context
+
+Inspired by Tony Stark's Dum-E and U, this project explores practical robotic assistance in desktop environments. The goal was to create a robust, precise robotic arm capable of real-world manipulation tasks while being adaptable to various control schemes.
 
 ![[Pasted image 20241109150655.png|300]]
 
@@ -37,7 +39,7 @@ Then I made and prototyped a smaller version which would fit better for my appli
  ![[Pasted image 20241109151433.png]]
 
 After playing around with custom 3D-printed actuators, I folded and opted for an off-the-shelf harmonic reducer because of issues with accuracy and friction with PLA.
-# Next Steps?
+# Next Steps
 I designed Dummy with 7 degrees of freedom to mimic a human arm, making it adaptable for various robotic applications:
 - Adding a claw end effector transforms it into a functional pick-and-place robotic arm
 - Mounting it on a humanoid frame (which I named Trumbo) creates a basic humanoid robot

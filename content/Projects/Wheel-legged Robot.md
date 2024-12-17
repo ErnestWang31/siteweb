@@ -1,3 +1,4 @@
+# Context
 Ever watched Boston Dynamics' robots pulling off incredible stunts but thought "there's got to be a simpler way"? After diving into a research paper on wheel-legged robots and seeing the explosion of humanoid robots everywhere, I couldn't shake the feeling that we're overcomplicating robot mobility. So I set out to build something that combines the best of both worlds - the stability of wheels with the adaptability of legs!
 Before jumping into CAD, I laid out some key goals:
 - Stability First: The robot needed to handle rough terrain without the constant balancing act of humanoid designs
